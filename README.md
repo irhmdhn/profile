@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Ihwannudin Rahmadhani from Gunungkidul, Yogyakarta, Indonesia<br><br>- 🔭 I’m a  Student At AMIKOM University of Yogyakarta<br>- 📚 My major is Informatics Engineering (Teknik Informatika)<br>- 👀 I’m interested in Web Development & UI/UX </p>
+<p align="left">I'm <strong>Ihwannudin Rahmadhani</strong> from Gunungkidul, Yogyakarta, Indonesia<br><br>- 🔭 I’m a  Student At <a href="https://home.amikom.ac.id/" target="_blank"><strong>AMIKOM University of Yogyakarta</strong></a><br>- 📚 My major is <strong>Informatics Engineering</strong> (Teknik Informatika)<br>- 👀 I’m interested in <srtong>Web Development & UI/UX</srtong></p>
 
 ###
 
